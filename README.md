@@ -5,7 +5,7 @@
 
 <a name="_81g3rsq4ohcy"></a>**Undersampled MRI Reconstruction**
 
-![horizontal line](Aspose.Words.fc62e1f8-a784-40b8-898d-8aecdb19005c.002.png)
+![horizontal line](img/Aspose.Words.fc62e1f8-a784-40b8-898d-8aecdb19005c.002.png)
 # <a name="_arolcxe0i15c"></a>**Model 1** 
 ### <a name="_zge4vrg40ckk"></a>**Input: Under-sampled MRI image (256\*256\*1)**
 ### <a name="_ixngeju7ryom"></a>**Output:  Reconstructed MRI image (256\*256\*1)**
@@ -149,7 +149,7 @@ Avg PSNR between target and deblurred image = 1.1516601466059513
 ![horizontal line]
 
 
-[horizontal line]: Aspose.Words.fc62e1f8-a784-40b8-898d-8aecdb19005c.001.png
+[horizontal line]: img/Aspose.Words.fc62e1f8-a784-40b8-898d-8aecdb19005c.001.png
 
 
 
